@@ -20,6 +20,6 @@
 
 
 ### :zap: Actividad reciente
-<!--ATART_SECTOR:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:les_update-->
+<!--RECENT_ACTVITY:last_update-->
