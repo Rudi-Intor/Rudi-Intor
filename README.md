@@ -17,3 +17,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Rudi-Intor/Rudi-Intor)
+
+
+### :zap: Actividad reciente
+<!--ATART_SECTOR:activity-->
+
+<!--END_SECTION:les_update-->
