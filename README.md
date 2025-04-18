@@ -21,10 +21,10 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
-2. ⭐ Starred [cli/cli](https://github.com/cli/cli)<br>
-3. ✔️ Closed issue [#1](https://github.com/Rudi-Intor/miCuartoRepo/issues/1) in [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
-4. ❗️ Opened issue [#1](https://github.com/Rudi-Intor/miCuartoRepo/issues/1) in [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
-5. 📔 Created new repository [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
+1. ⬆️ Pushed 5 commit(s) to [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
+2. 🎉 Merged PR [#3](https://github.com/Rudi-Intor/miCuartoRepo/pull/3) in [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
+3. 💪 Opened PR [#3](https://github.com/Rudi-Intor/miCuartoRepo/pull/3) in [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
+4. ⬆️ Pushed 2 commit(s) to [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
+5. ⬆️ Pushed 2 commit(s) to [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTVITY:last_update-->
