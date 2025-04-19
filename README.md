@@ -21,10 +21,10 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
-2. 🎉 Merged PR [#3](https://github.com/Rudi-Intor/miCuartoRepo/pull/3) in [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
-3. 💪 Opened PR [#3](https://github.com/Rudi-Intor/miCuartoRepo/pull/3) in [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
-4. ⬆️ Pushed 2 commit(s) to [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
-5. ⬆️ Pushed 2 commit(s) to [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
+1. 📔 Created new repository [Rudi-Intor/TercerRepo](https://github.com/Rudi-Intor/TercerRepo)<br>
+2. ⭐ Starred [flask-api/flask-api](https://github.com/flask-api/flask-api)<br>
+3. ⬆️ Pushed 5 commit(s) to [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
+4. 🎉 Merged PR [#3](https://github.com/Rudi-Intor/miCuartoRepo/pull/3) in [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
+5. 💪 Opened PR [#3](https://github.com/Rudi-Intor/miCuartoRepo/pull/3) in [Rudi-Intor/miCuartoRepo](https://github.com/Rudi-Intor/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTVITY:last_update-->
