@@ -24,7 +24,5 @@
 1. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/miPrimerRepo](https://github.com/Rudi-Intor/miPrimerRepo)<br>
 2. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/TercerRepo](https://github.com/Rudi-Intor/TercerRepo)<br>
 3. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/TercerRepo](https://github.com/Rudi-Intor/TercerRepo)<br>
-4. ⬆️ Pushed 2 commit(s) to [Rudi-Intor/TercerRepo](https://github.com/Rudi-Intor/TercerRepo)<br>
-5. 📔 Created new repository [Rudi-Intor/TercerRepo](https://github.com/Rudi-Intor/TercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTVITY:last_update-->
