@@ -21,6 +21,5 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/miPrimerRepo](https://github.com/Rudi-Intor/miPrimerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTVITY:last_update-->
