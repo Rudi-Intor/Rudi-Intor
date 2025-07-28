@@ -21,10 +21,10 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Rudi-Intor/aprendiendo-html-css](https://github.com/Rudi-Intor/aprendiendo-html-css)<br>
-2. ⭐ Starred [mssroboto/diseno-para-programadores](https://github.com/mssroboto/diseno-para-programadores)<br>
-3. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/plantilla](https://github.com/Rudi-Intor/plantilla)<br>
-4. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/T-tulo-Certificados](https://github.com/Rudi-Intor/T-tulo-Certificados)<br>
-5. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/plantilla](https://github.com/Rudi-Intor/plantilla)<br>
+1. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/plantilla](https://github.com/Rudi-Intor/plantilla)<br>
+2. 📔 Created new repository [Rudi-Intor/aprendiendo-html-css](https://github.com/Rudi-Intor/aprendiendo-html-css)<br>
+3. ⭐ Starred [mssroboto/diseno-para-programadores](https://github.com/mssroboto/diseno-para-programadores)<br>
+4. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/plantilla](https://github.com/Rudi-Intor/plantilla)<br>
+5. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/T-tulo-Certificados](https://github.com/Rudi-Intor/T-tulo-Certificados)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTVITY:last_update-->
