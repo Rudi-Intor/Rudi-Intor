@@ -21,7 +21,8 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/plantilla](https://github.com/Rudi-Intor/plantilla)<br>
-2. 📔 Created new repository [Rudi-Intor/aprendiendo-html-css](https://github.com/Rudi-Intor/aprendiendo-html-css)<br>
+1. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/aprendiendo-html-css](https://github.com/Rudi-Intor/aprendiendo-html-css)<br>
+2. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/plantilla](https://github.com/Rudi-Intor/plantilla)<br>
+3. 📔 Created new repository [Rudi-Intor/aprendiendo-html-css](https://github.com/Rudi-Intor/aprendiendo-html-css)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTVITY:last_update-->
