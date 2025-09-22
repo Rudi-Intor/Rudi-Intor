@@ -24,6 +24,5 @@
 1. 📔 Created new repository [Rudi-Intor/clonWikipedia](https://github.com/Rudi-Intor/clonWikipedia)<br>
 2. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/copia-google](https://github.com/Rudi-Intor/copia-google)<br>
 3. 📔 Created new repository [Rudi-Intor/copia-google](https://github.com/Rudi-Intor/copia-google)<br>
-4. ⬆️ Pushed 1 commit(s) to [Rudi-Intor/aprendiendo-html-css](https://github.com/Rudi-Intor/aprendiendo-html-css)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTVITY:last_update-->
