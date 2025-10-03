@@ -21,6 +21,5 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Rudi-Intor/clonWikipedia](https://github.com/Rudi-Intor/clonWikipedia)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTVITY:last_update-->
